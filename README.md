@@ -4,3 +4,6 @@ A 2D pixel RPG game developed in Java for a school project, where the player emb
 USE-CASE DIAGRAM
 <img width="1440" height="1520" alt="image" src="https://github.com/user-attachments/assets/12069560-a091-4c67-8102-456c0f8ac00b" />
 
+Planned Class Diagram
+<img width="1554" height="737" alt="image" src="https://github.com/user-attachments/assets/67db5303-4931-41b6-92a0-61cbeca12610" />
+
